@@ -1,0 +1,12 @@
+{
+  "name": "sass-system",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.49.7",
+    "vite": "^2.8.3"
+  }
+}
